@@ -1,0 +1,58 @@
+.my-todo-list {
+  padding: 20px;
+  width: 400px;
+  margin: 20px auto;
+}
+.my-todo-list .header {
+  margin-bottom: 20px;
+}
+.my-todo-list .header div {
+  display: flex;
+}
+.my-todo-list .header div input {
+  flex: 2;
+  margin-right: 10px;
+}
+.my-todo-list .my-todo-list {
+  padding: 20px;
+  width: 400px;
+  margin: 20px auto;
+}
+.my-todo-list .my-todo-list .header {
+  margin-bottom: 20px;
+}
+.my-todo-list .my-todo-list .header div {
+  display: flex;
+}
+.my-todo-list .my-todo-list .header div input {
+  flex: 2;
+  margin-right: 10px;
+}
+.my-todo-list .my-todo-list .list-item {
+  display: flex;
+  align-items: center;
+}
+.my-todo-list .my-todo-list .list-item .left {
+  margin-left: auto;
+}
+.my-todo-list .my-todo-list .list-item input {
+  margin-right: 10px;
+}
+.my-todo-list .my-todo-list .list-item.checked {
+  text-decoration: line-through;
+}
+.my-todo-list .list-item {
+  display: flex;
+  align-items: center;
+}
+.my-todo-list .list-item .left {
+  margin-left: auto;
+}
+.my-todo-list .list-item input {
+  margin-right: 10px;
+}
+.my-todo-list .list-item.checked {
+  text-decoration: line-through;
+}
+
+/*# sourceMappingURL=style.css.map */
